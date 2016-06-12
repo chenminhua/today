@@ -1,4 +1,4 @@
-remember every important day
+remember every important day
 
 # installation:
 ```
